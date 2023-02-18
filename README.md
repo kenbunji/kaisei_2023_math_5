@@ -4,10 +4,10 @@
 
 Python 3をインストールする
 
-### 実行
+### 実行方法と結果
 
 ```
-python main.py
+>python main.py
 # a b
 1 2111 7612
 ...（省略）...
