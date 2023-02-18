@@ -28,3 +28,4 @@ for a in range(0, 9724):  # aは9723以下
         continue
     cnt += 1
     print(cnt, a, b)
+print('条件を満たすa,bの組が' + str(cnt) + '個見つかりました')
